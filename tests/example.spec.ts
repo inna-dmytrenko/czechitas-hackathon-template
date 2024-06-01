@@ -14,7 +14,8 @@ test.describe("Login functionality", () => {
   // jak to testuju 
   test("should log user with correct credentials", async ({ page }) => {
     // pises kod sem :)
-
+    // pages = new AllPages(page);
+    // await pages.visit("/selectors.html");
 
   });
 });
